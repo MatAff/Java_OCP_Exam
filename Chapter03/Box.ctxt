@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Object\ getContents()
+comment1.params=contents
+comment1.target=void\ setContents(java.lang.Object)
+numComments=2

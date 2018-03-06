@@ -1,4 +1,3 @@
-
 // Class to compare availability of push and pop across different classes
 
 package Chapter03;
@@ -13,7 +12,7 @@ public class PushCompare {
         ArrayDeque adq = new ArrayDeque();
         adq.push(1);
         adq.push(1);
-        adq.pop(1); // Does not compile
+        //adq.pop(1); // Does not compile
 
         // ArrayDeque with generic String
         ArrayDeque<String> greetings = new ArrayDeque<String>();
